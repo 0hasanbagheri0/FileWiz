@@ -197,7 +197,7 @@ print(f"{len(deleted)} فایل حذف شد")
 
 ## 📧 ارتباط با من
 
-- **ایمیل**: hasan111bagher0@gmail.com
+- **ایمیل**: hasan111bagher@gmail.com
 - **گیت‌هاب**: [0hasanbagheri0](https://github.com/0hasanbagheri0)
 
 ---
