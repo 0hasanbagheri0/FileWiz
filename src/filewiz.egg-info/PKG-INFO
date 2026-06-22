@@ -1,0 +1,37 @@
+Metadata-Version: 2.4
+Name: filewiz
+Version: 0.1.0
+Summary: ابزارهای پیشرفته برای مدیریت و پردازش فایل‌ها
+Author-email: Hasan Bagheri <hasan111bagher@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/0hasanbagheri0/filewiz
+Project-URL: Repository, https://github.com/0hasanbagheri0/filewiz
+Project-URL: Issues, https://github.com/0hasanbagheri0/filewiz/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: System :: Filesystems
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# FileWizard
+
+ابزارهای پیشرفته برای مدیریت و پردازش فایل‌ها در پایتون.
+
+## 🚀 ویژگی‌ها
+
+- کپی، جابجایی و حذف فایل‌ها و پوشه‌ها
+- فشرده‌سازی و خارج‌سازی فایل‌های ZIP
+- پیدا کردن فایل‌های تکراری
+- تغییر نام گروهی با الگو
+- پاکسازی پوشه بر اساس پسوند یا حجم
+- دریافت اطلاعات کامل فایل‌ها
+- تشخیص فایل‌های مخفی
+
+## 📦 نصب
+
+```bash
+pip install filewizard

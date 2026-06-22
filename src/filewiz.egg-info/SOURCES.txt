@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/filewiz/__init__.py
+src/filewiz/compress.py
+src/filewiz/core.py
+src/filewiz/utils.py
+src/filewiz.egg-info/PKG-INFO
+src/filewiz.egg-info/SOURCES.txt
+src/filewiz.egg-info/dependency_links.txt
+src/filewiz.egg-info/top_level.txt

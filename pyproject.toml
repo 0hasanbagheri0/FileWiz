@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "filewizard"
+name = "filewiz"
 version = "0.1.0"
 description = "ابزارهای پیشرفته برای مدیریت و پردازش فایل‌ها"
 readme = "README.md"
@@ -22,9 +22,9 @@ requires-python = ">=3.7"
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/0hasanbagheri0/filewizard"
-Repository = "https://github.com/0hasanbagheri0/filewizard"
-Issues = "https://github.com/0hasanbagheri0/filewizard/issues"
+Homepage = "https://github.com/0hasanbagheri0/filewiz"
+Repository = "https://github.com/0hasanbagheri0/filewiz"
+Issues = "https://github.com/0hasanbagheri0/filewiz/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
