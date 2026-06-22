@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "filewizard"
+version = "0.1.0"
+description = "ابزارهای پیشرفته برای مدیریت و پردازش فایل‌ها"
+readme = "README.md"
+authors = [
+    {name = "Hasan Bagheri", email = "hasan111bagher@gmail.com"}
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Topic :: System :: Filesystems",
+]
+requires-python = ">=3.7"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/0hasanbagheri0/filewizard"
+Repository = "https://github.com/0hasanbagheri0/filewizard"
+Issues = "https://github.com/0hasanbagheri0/filewizard/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
